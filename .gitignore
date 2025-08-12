@@ -1,0 +1,9 @@
+# Ignore secrets and sensitive files
+credentials.json
+token.pickle
+.streamlit/secrets.toml
+
+# Ignore Python cache & venv
+__pycache__/
+.venv/
+*.pyc
