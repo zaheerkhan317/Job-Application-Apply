@@ -2,6 +2,8 @@
 credentials.json
 token.pickle
 .streamlit/secrets.toml
+.env
+
 
 # Ignore Python cache & venv
 __pycache__/
